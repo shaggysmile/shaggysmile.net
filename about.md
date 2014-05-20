@@ -16,7 +16,6 @@ title: Об авторе
 ### Обратная связь:
 
 Со мной всегда можно связаться по почте [shaggysmile@gmail.com](mailto://shaggysmile@gmail.com)
-[shaggysmile@gmail.com](mailto://shaggysmile@gmail.com)
 
 ### Аватар:
 ![Геннадий Уханов](/assets/images/avatar-default.jpg)
