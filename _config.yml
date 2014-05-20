@@ -1,0 +1,30 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        /posts/:title
+
+# Setup
+title:            '@shaggysmile'
+tagline:          'техно-заметки'
+description:      'Привет! Меня зовут Геннадий Уханов. Кратко об мне &mdash;
+                   JS-разработчик, работаю в Access Softek. Живу в солнечном городе Ташкент.
+
+                   Помимо фронтенда интересуюсь типографикой, информационным дизайном
+                   и улучшением городской среды.'
+
+url:              http://shaggysmile.net
+
+
+author:
+  name:           'Gennadiy Ukhanov'
+  url:            https://twitter.com/shaggysmile
+
+paginate:         1
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/shaggysmile/blog
