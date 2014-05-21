@@ -11,7 +11,7 @@ keywords: ["jekyll", "hello world"]
 
 О чем я планирую писать? В основном о веб-разработке. Постараюсь придерживаться периодичности одна-две заметки в неделю.
 
-Данный блог работает на [Jekyll](http://jekyllrb.com) и хоститься на [GitHub](https://github.com/shaggysmile/shaggysmile.net). Кажется после монструозной админки WordPress я нашел свое счастье в статичном markdown. 
+Данный блог работает на [Jekyll](http://jekyllrb.com) и хоститься на [GitHub](https://github.com/shaggysmile/shaggysmile.net). Кажется, после монструозной админки WordPress, я нашел свое счастье в статичном markdown. 
 
 Вот несколько ссылок на статьи про Jekyll: 
 
