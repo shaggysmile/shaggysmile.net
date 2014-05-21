@@ -15,7 +15,7 @@ keywords: ["jekyll", "hello world"]
 
 * [Переезд с WordPress на Jekyll](http://shuvalov.info/2012/12/31/wp2jekyll/)
 * [Практическое руководство по Jekyll](http://habrahabr.ru/post/207650/)
-* [Jekyll](http://kizu.ru/issues/going-jekyll/)
+* [Вводная заметка про Jekyll](http://kizu.ru/issues/going-jekyll/)
 
 Итак поехали &mdash; Hello World!
 
