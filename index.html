@@ -11,8 +11,10 @@ layout: default
       </a>
     </h1>
     <span class="post-date">{{ post.date | date: "%d/%m/%Y" }}</span>
-    <span class="post-comments"><small><a href="{{ post.url }}/#disqus_thread">Комментарии</a></small></span>
-
+    {{ post.excerpt }}
+    <a href="{{ post.url }}">
+      Читать далее
+    </a>
   </div>
   {% endfor %}
 </div>
