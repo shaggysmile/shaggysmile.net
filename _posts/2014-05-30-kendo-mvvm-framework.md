@@ -4,17 +4,17 @@ title: Kendo UI как MVVM-фреймворк
 keywords: ["js", "kendo ui", "mvvm"]
 ---
 
-Волей судеб, мне пришлось поработать с [Kendo UI](http://www.telerik.com/kendo-ui), отличным фреймворком разработанной компанией Telerik. В состав входит более 70 виджетов (Charts, Diagram, Editor, Grid, Scheduler, TreeView, Upload и т.д.), в основе которых лежит jQuery. 
+Волей судеб, мне пришлось поработать с [Kendo UI](http://www.telerik.com/kendo-ui), отличным фреймворком разработанной компанией Telerik. 
 
-Плюс к этому в Kendo UI есть поддержка мобильных устройств, неплохая кастомизация (из коробки 11 предустановленных тем) и MVVM-фреймворк. О MVVM-фреймворке мы и поговорим в этой статье.
+В состав Kendo UI входит более 70 виджетов (Charts, Diagram, Editor, Grid, Scheduler, TreeView, Upload и т.д.), в основе которых лежит jQuery. Плюс к этому, есть поддержка мобильных устройств, неплохая кастомизация (из коробки 11 предустановленных тем) и MVVM-фреймворк. О MVVM-фреймворке мы и поговорим в этой статье.
 
-Ко всем этим плюсам, есть один большой жирный минус в виде цены. Пакет [Kendo UI Professional](http://www.telerik.com/purchase/kendo-ui) стоит $699.
+Правда, ко всем этим плюсам, есть один большой жирный минус в виде цены. Пакет [Kendo UI Professional](http://www.telerik.com/purchase/kendo-ui) стоит $699.
 
 <small>Но не будем опускать руки, существует и open-source версия &mdash; [Kendo UI Core](http://www.telerik.com/download/kendo-ui-core), выпущенная под лицензией Apache 2.0, включающая в себя 40 виджетов и весь необходимый нам core-функционал.</small> 
 
 ### MVVM
 #### Краткая история
-Итак, [MVVM](http://ru.wikipedia.org/wiki/Model-View-ViewModel) (Model-View-ViewModel) — архитектурный шаблон программирования, основанный на MVC. Ключевое различие между ними состоит в том, что MVVM добавляет абстракцию View — ViewModel, которая занимается отслеживанием изменений в данных модели и их отображением в представлении (data-binding).
+[MVVM](http://ru.wikipedia.org/wiki/Model-View-ViewModel) (Model-View-ViewModel) — архитектурный шаблон программирования, основанный на MVC. Ключевое различие между ними состоит в том, что MVVM добавляет абстракцию View — ViewModel, которая занимается отслеживанием изменений в данных модели и их отображением в представлении (data-binding).
 
 Концепт MVVM был [представлен Джоном Гроссманом](http://blogs.msdn.com/b/johngossman/), в 2005-м году и использовался в Windows Presentation Foundation ([WPF](http://ru.wikipedia.org/wiki/Windows_Presentation_Foundation)) и [Silverlight](http://www.microsoft.com/silverlight/). 
 
