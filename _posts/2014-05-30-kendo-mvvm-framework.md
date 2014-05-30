@@ -4,7 +4,7 @@ title: Kendo UI как MVVM-фреймворк
 keywords: ["js", "kendo ui", "mvvm"]
 ---
 
-Волей судеб, мне пришлось поработать с [Kendo UI](http://www.telerik.com/kendo-ui), отличным фреймворком разработанной компанией Telerik. В состав входит более 70 виджетов (Charts, Diagram, Editor, Grid, Scheduler, TreeView, Upload и т.д.), в базе которых лежит jQuery. 
+Волей судеб, мне пришлось поработать с [Kendo UI](http://www.telerik.com/kendo-ui), отличным фреймворком разработанной компанией Telerik. В состав входит более 70 виджетов (Charts, Diagram, Editor, Grid, Scheduler, TreeView, Upload и т.д.), в основе которых лежит jQuery. 
 
 Плюс к этому в Kendo UI есть поддержка мобильных устройств, неплохая кастомизация (из коробки 11 предустановленных тем) и MVVM-фреймворк. О MVVM-фреймворке мы и поговорим в этой статье.
 
