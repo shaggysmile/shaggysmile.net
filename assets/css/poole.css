@@ -174,7 +174,8 @@ pre {
     white-space: pre-wrap;
     word-break: break-all;
     word-wrap: break-word;
-    background-color: #f9f9f9;
+    background-color: #222;
+    color: #ccc;
 }
 
 pre code {
@@ -336,6 +337,7 @@ tbody tr:nth-child(odd) th {
     margin-top: -.5rem;
     margin-bottom: 1rem;
     color: #9a9a9a;
+    font-size: .7rem;
 }
 
 /* Related posts */
