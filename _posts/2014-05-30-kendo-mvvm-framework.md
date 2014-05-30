@@ -121,7 +121,7 @@ kendo.bind($(".kendo-view"), viewModel);
 ### Ссылке по теме
 
 * [Документация Kendo UI](http://docs.telerik.com/kendo-ui)
-* [Сравнение KendoUI и Knockout](http://www.scottlogic.com/blog/2013/04/08/comparing-kendoui-and-knockout-with-a-bit-of-jquerymobile-on-the-side.html)
+* [Сравнение Kendo UI и Knockout](http://www.scottlogic.com/blog/2013/04/08/comparing-kendoui-and-knockout-with-a-bit-of-jquerymobile-on-the-side.html)
 * [MVVM-руководство для JavaScript-разработчиков](http://addyosmani.com/blog/understanding-mvvm-a-guide-for-javascript-developers/)
 
 
