@@ -118,3 +118,10 @@ kendo.bind($(".kendo-view"), viewModel);
 
 Резюмируя. Странно, что Kendo UI, учитывая его open-source лицензию, не получил такого широкого распространения у разработчиков как Knockout. На мой взгляд Kendo UI, гораздо более зрелое решение в ряду других MVVM-фреймворков.
 
+### Ссылке по теме
+
+* [Документация Kendo UI](http://docs.telerik.com/kendo-ui)
+* [Сравнение KendoUI и Knockout](http://www.scottlogic.com/blog/2013/04/08/comparing-kendoui-and-knockout-with-a-bit-of-jquerymobile-on-the-side.html)
+* [MVVM-руководство для JavaScript-разработчиков](http://addyosmani.com/blog/understanding-mvvm-a-guide-for-javascript-developers/)
+
+
