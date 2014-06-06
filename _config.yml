@@ -21,7 +21,7 @@ author:
   name:           'Gennadiy Ukhanov'
   url:            https://twitter.com/shaggysmile
 
-paginate:         5
+paginate:         10
 paginate_path:    archive/:num
 
 # Custom vars
