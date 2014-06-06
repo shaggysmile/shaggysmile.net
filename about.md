@@ -16,11 +16,11 @@ title: Об авторе
 ###Инструментарий
 
 * MacOS &ndash; основная операционная система
-* WebStorm &ndash; основная IDE, 
+* WebStorm &ndash; основная IDE 
 * Sublime &ndash; текстовый редактор
 * Grunt &ndash; для сборки проектов
 * SASS+Compass &ndash; препроцессор для CSS
-* jQuery, Backbone, React, KendoUI &ndash; так или иначе используемые JS-фреймворки
+* jQuery, Backbone, React, Kendo UI &ndash; так или иначе используемые JS-фреймворки
 * YUIDocs &ndash; для документирования кода
 * QUnit &ndash; для тестирования кода
 
